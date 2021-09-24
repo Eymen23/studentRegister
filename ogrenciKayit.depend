@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1632443366 source:c:\users\eymen sezen\desktop\for cb\ogrencikayit\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1632443585 source:c:\users\eymen sezen\desktop\for cb\studentregister\main.c
+	<stdio.h>
+	<stdlib.h>
+
